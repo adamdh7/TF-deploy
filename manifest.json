@@ -20,9 +20,9 @@
       "purpose": "any"
     },
     {
-      "src": "https://cliquez.pages.dev/asset/1024.jpg",
+      "src": "https://cliquez.pages.dev/asset/1024.png",
       "sizes": "1024x1024",
-      "type": "image/jpeg",
+      "type": "image/png",
       "purpose": "any"
     },
     {
@@ -35,7 +35,7 @@
   "screenshots": [
     {
       "src": "https://cliquez.pages.dev/asset/screen.png",
-      "sizes": "1536x1024",
+      "sizes": "1024x1024",
       "type": "image/png"
     }
   ]
