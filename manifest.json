@@ -14,19 +14,19 @@
   "description": "Just cliquez",
   "icons": [
     {
-      "src": "asset/192.png",
+      "src": "https://cliquez.pages.dev/asset/192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "asset/1024.jpg",
+      "src": "https://cliquez.pages.dev/asset/1024.jpg",
       "sizes": "1024x1024",
       "type": "image/jpeg",
       "purpose": "any"
     },
     {
-      "src": "asset/512.png",
+      "src": "https://cliquez.pages.dev/asset/512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
@@ -34,7 +34,7 @@
   ],
   "screenshots": [
     {
-      "src": "asset/screen.png",
+      "src": "https://cliquez.pages.dev/asset/screen.png",
       "sizes": "1536x1024",
       "type": "image/png"
     }
