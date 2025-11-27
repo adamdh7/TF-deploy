@@ -213,7 +213,7 @@
         elTotal.textContent = formatMoney(state.total);
         saveState(state);
       }
-      function formatMoney(n){ return '$' + String(n); }
+      function formatMoney(n){ return '' + String(n); }
 
       function incrementCounts(){
         rotateIfNeeded(state);
